@@ -36,3 +36,9 @@ test-branch2 적용
 ## 여름
 ## 가을
 ## 겨울
+
+# 개발언어
+## C
+## JAVA
+## PYTHON
+## GO
